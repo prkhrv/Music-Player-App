@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Music-Player-App/static/css/main.c4b6c24d.css",
+    "main.js": "/Music-Player-App/static/js/main.1b9408a1.js",
+    "static/js/787.ded37e57.chunk.js": "/Music-Player-App/static/js/787.ded37e57.chunk.js",
+    "static/media/footer-bg-1.jpg": "/Music-Player-App/static/media/footer-bg-1.55991210b12e689460ab.jpg",
+    "static/media/music.png": "/Music-Player-App/static/media/music.dff3e731654adba62dca.png",
+    "index.html": "/Music-Player-App/index.html",
+    "main.c4b6c24d.css.map": "/Music-Player-App/static/css/main.c4b6c24d.css.map",
+    "main.1b9408a1.js.map": "/Music-Player-App/static/js/main.1b9408a1.js.map",
+    "787.ded37e57.chunk.js.map": "/Music-Player-App/static/js/787.ded37e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b6c24d.css",
+    "static/js/main.1b9408a1.js"
+  ]
+}
